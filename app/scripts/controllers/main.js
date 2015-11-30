@@ -14,4 +14,9 @@ angular.module('lierKommuneApp')
       'AngularJS',
       'Karma'
     ];
+    
+//    TODO: GET Article information
+//    TODO: Google Map?
+//    TODO: Main Navigation Info?
+    
   });

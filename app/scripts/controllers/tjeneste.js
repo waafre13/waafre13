@@ -14,4 +14,7 @@ angular.module('lierKommuneApp')
       'AngularJS',
       'Karma'
     ];
+    
+//    TODO: GET tjeneste-info
+//    FUTURE: SET tjeneste-info
   });
